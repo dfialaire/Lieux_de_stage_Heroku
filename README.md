@@ -1,5 +1,5 @@
 # Lieux de stages : déployée sur Heroku :
-<img src="https://github.com/dfialaire/Lieux_de_stage_Heroku/blob/main/Present_Lieux2stages.gif" width=200 height=450 />
+<img src="https://github.com/dfialaire/Lieux_de_stage_Heroku/blob/main/Present_Lieux2stages.gif" width=300 height=500 />
 
 2022 Septembre : Lien vers l'application avec contrôle des annnées via Heroku :
 
