@@ -1,5 +1,5 @@
 voila==0.3.6
-folium==0.12.1 # 0.13.0  # 
+# folium==0.12.1 # 0.13.0  # 
 ipywidgets==7.6.3
 ipyleaflet==0.14.0 # 0.17.2 # 
 reportlab==3.5.68
